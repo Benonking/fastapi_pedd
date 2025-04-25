@@ -1,0 +1,6 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+torch==2.2.2
+torchvision==0.17.2
+Pillow
+requests
